@@ -1,5 +1,5 @@
 # Git & GitHub - Workshop
-![Git + GitHub](./Images/Git + GitHub.png)
+![Git + GitHub](https://github.com/GEEKS-of-GEC/Git-and-GitHub-Workshop/blob/master/Images/Git%20%2B%20GitHub.png)
 
 ## Table of Contents
 
