@@ -1,5 +1,5 @@
 # Git & GitHub - Workshop
-![Git + GitHub](https://github.com/mdisrail2468/Git-and-GitHub-Workshop/blob/master/Images/Git%20%2B%20GitHub.png)
+![Git + GitHub](./Images/Git + GitHub.png)
 
 ## Table of Contents
 
